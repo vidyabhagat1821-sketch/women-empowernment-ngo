@@ -195,7 +195,9 @@
 }
 
 .th {
-    width: 700px;
-    height: 280px;
+    width: 100%;
+    aspect-ratio:16/9;
+    border-radius:12px;
 
 }
+
