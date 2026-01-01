@@ -9,8 +9,8 @@
 }
 
 .about-image {
-    height: 40vh;
-    width: 100vw;
+    height: auto;
+    width: 100%;
 }
 
 .ngo1 {
@@ -197,4 +197,5 @@
 .th {
     width: 700px;
     height: 280px;
+
 }
