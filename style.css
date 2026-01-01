@@ -1,0 +1,200 @@
+.viru {
+    height: 70px;
+    width: 70px;
+}
+
+.ngo {
+    text-align: center;
+    font-family: 'Playfair Display', Sans-Serif;
+}
+
+.about-image {
+    height: 40vh;
+    width: 100vw;
+}
+
+.ngo1 {
+    text-align: center;
+    font-family: bold;
+    font-size: 30px;
+}
+
+.ngo-btn {
+    background-color: #e91e63;
+    color: white;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    justify-content: center;
+
+}
+
+.btn-container {
+    text-align: center;
+}
+
+#nav1 {
+    color: #323f4b;
+    font-family: Roboto;
+
+}
+
+#nav2 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#nav3 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#nav4 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card1-image {
+    width: 130px;
+    height: 100px;
+}
+
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.news-updates {
+    background-color: #f7f9fc;
+
+}
+
+.news {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.news-item {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+
+.news-item h3 {
+    color: #b83b5e;
+}
+
+.news-date {
+    font-size: 14px;
+    color: #777;
+}
+
+.source {
+    font-size: 13px;
+    color: #555;
+    font-style: italic;
+}
+
+.get-involved-section {
+    max-width: 900px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.get-involved-title {
+    text-align: center;
+    font-size: 36px;
+    color: #6a1b9a;
+    margin-bottom: 15px;
+}
+
+.get-involved-intro {
+    text-align: center;
+    font-size: 16px;
+    color: #555;
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.6;
+}
+
+.get-involved-heading {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #6a1b9a;
+}
+
+.get-involved-text {
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #444;
+}
+
+.get-involved-closing {
+    margin-top: 40px;
+    text-align: center;
+    font-style: italic;
+    color: #666;
+}
+
+.video-text {
+    max-width: 800px;
+    margin: 20px auto 50px auto;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #444;
+    text-align: center;
+}
+
+.video-box {
+    display: flex;
+    justify-content: center;
+}
+
+.th {
+    width: 700px;
+    height: 280px;
+}
